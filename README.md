@@ -7,8 +7,6 @@ Smartwatch open-source bazat pe nRF52840, cu display e-paper.
 
 ## BOM (Bill of Materials)
 
-# Bill of Materials — InkTime
-
 ## Componente principale
 
 | Referinta | Componenta | Descriere | Package | Cantitate | JLCPCB / LCSC | Datasheet |
