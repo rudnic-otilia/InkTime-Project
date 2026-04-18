@@ -22,14 +22,14 @@ Smartwatch open-source bazat pe nRF52840, cu display e-paper.
 | Q1 | DMG2305UX-7 | P-channel MOSFET, power switch | SOT-23-3 | 1 | [C252544](https://jlcpcb.com/partdetail/Diodes-DMG2305UXT116/C252544) | [Datasheet](https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf) |
 | J4 | KH-TYPE-C-16P | Conector USB-C 16 pini | SMD | 1 | [C2765186](https://jlcpcb.com/partdetail/Kinghelm-KH_TYPEC_16P/C2765186) | [Datasheet](https://www.kinghelm.net/usb-connectors/kh-type-c-16p.html) |
 | J1 | 503480-2400 | Conector FPC 0.5mm 24 pini, pentru display e-paper | SMD | 1 | [C262280](https://jlcpcb.com/partdetail/Molex-5034802400/C262280) | [Datasheet](https://www.molex.com/en-us/products/part-detail/503480-2400) |
-| J2 | TC2030-IDC | Conector Tag-Connect SWD debug/programare | PCB footprint | 1 | — (hand assembly) | [Datasheet](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2030-IDC_1.pdf) |
+| J2 | TC2030-IDC | Conector Tag-Connect SWD debug/programare | PCB footprint | 1 | — | [Datasheet](https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2030-IDC_1.pdf) |
 | ANT1 | 2450AT18B100E | Antenă chip 2.4GHz pentru BLE | SMD | 1 | [C89771](https://jlcpcb.com/partdetail/Johanson-2450AT18B100E/C89771) | [Datasheet](https://www.johansontechnology.com/datasheets/2450AT18B100E/2450AT18B100E.pdf) |
 | X1 | X322516MLB4SI | Crystal HFXO 32MHz, 8pF, ±10ppm pentru nRF52840 | SMD 2016 | 1 | [C13738](https://jlcpcb.com/partdetail/YangxingTech-X322516MLB4SI/C13738) | [Datasheet](https://datasheet.lcsc.com/lcsc/2110221730_YXC-X322516MLB4SI_C13738.pdf) |
 | X2 | Q13FC13500004 | Crystal LFXO 32.768kHz, 12.5pF, ±20ppm pentru RTC | SMD 3215 | 1 | [C32346](https://jlcpcb.com/partdetail/Epson-Q13FC13500004/C32346) | [Datasheet](https://www.lcsc.com/datasheet/C32346.pdf) |
 | SW_UP, SW_DN, SW_ENT | EVP-AKE31A | Butoane tactile SMD | SMD | 3 | [C3669064](https://jlcpcb.com/partdetail/Panasonic-EVPAKE31A/C3669064) | [Datasheet](https://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf) |
 | D2, D4, D5 | MBR0530 | Diodă Schottky 0.5A 30V, circuit drive e-paper | SOD-123 | 3 | [C424058](https://jlcpcb.com/partdetail/onsemi-MBR0530T1G/C424058) | [Datasheet](https://www.onsemi.com/pdf/datasheet/mbr0530t1-d.pdf) |
 | L7 | FTC252012SR47MBCA | Inductor 0.47µH pentru DC/DC | 0402 | 1 | [C408368](https://jlcpcb.com/partdetail/C408368) | — |
-| L5 | Inductor 68µH | Inductor boost pentru circuit drive e-paper | SMD | 1 | — (verifică disponibilitate) | — |
+| L5 | Inductor 68µH | Inductor boost pentru circuit drive e-paper | SMD | 1 | — | — |
 
 ---
 
